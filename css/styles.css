@@ -46,7 +46,7 @@ h2{
 
 h3{
   font-size: 16px;
-  padding-top: 14px;
+
 }
 
 /* email id must follow h3 tag for cascading effects */
@@ -77,9 +77,9 @@ h3{
   color: #FFCCB4;
 }
 
-/* sets bullet indentation to a smaller amount */
-ul {
-  padding-left: 16px;
+ul{
+  padding-top: 8px;
+  padding-left: 30px;
 }
 
 .row:last-of-type{
