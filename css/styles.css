@@ -87,6 +87,10 @@ ul {
 
 }
 
+#momo{
+  color: pink;
+}
+
 .row:last-of-type{
   margin-bottom: 120px;
 }
