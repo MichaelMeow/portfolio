@@ -1,4 +1,4 @@
-# [Michael Meow's Portfolio](michaelmeow.github.io/portfolio)
+# [Michael Meow's Portfolio](https://michaelmeow.github.io/portfolio)
 
 #### Michael Meow's Front End Web Developer Portfolio, 8/2/2018
 
