@@ -18,6 +18,9 @@ body{
   color:  #999999;
 }
 
+a{
+  color:  #999999;
+}
 
 .catimg{
   width: 350px;
@@ -55,4 +58,12 @@ h2:first-of-type{
 h2{
   font-size: 55px;
   text-align: center;
+}
+
+.row{
+  margin-top: 40px;
+}
+
+.row:last-of-type{
+  margin-bottom: 80px;
 }
