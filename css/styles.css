@@ -32,11 +32,6 @@ a:hover {
   margin-bottom: 5px;
 }
 
-#email{
-  margin-top: -37px;
-  font-size: 37px;
-}
-
 .atsymbol{
   font-size: 20px;
 }
@@ -72,6 +67,12 @@ h2{
 h3{
   font-size: 16px;
   padding-top: 14px;
+}
+
+#email{
+  padding-top: 0px;
+  margin-top: -37px;
+  font-size: 37px;
 }
 
 #me{
