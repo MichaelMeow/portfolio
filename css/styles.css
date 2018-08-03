@@ -15,11 +15,15 @@
 
 
 body{
-  color:  #999999;
+  color:  #686868;
 }
 
 a{
-  color:  #999999;
+  color:  #686868;
+}
+
+a:hover {
+    color: hotpink;
 }
 
 .catimg{
@@ -41,7 +45,7 @@ h1{
   font-size: 65px;
 }
 
-h2:first-of-type{
+h2{
   margin-top: 350px;
   margin-bottom: 80px;
 }
@@ -56,12 +60,17 @@ h2:first-of-type{
 }
 
 h2{
+  font-family: naomi;
   font-size: 55px;
   text-align: center;
 }
 
 .row{
-  margin-top: 40px;
+  margin-top: 80px;
+}
+
+h3{
+  font-size: 16px;
 }
 
 .row:last-of-type{
