@@ -71,8 +71,21 @@ h2{
 
 h3{
   font-size: 16px;
+  padding-top: 14px;
+}
+
+#me{
+  float: left;
+  padding-top: 14px;
+  padding-right: 14px;
+  width:156px;
+}
+
+ul {
+    padding-left: 16px;
+
 }
 
 .row:last-of-type{
-  margin-bottom: 80px;
+  margin-bottom: 120px;
 }
