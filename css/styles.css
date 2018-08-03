@@ -1,15 +1,58 @@
+@font-face {
+  font-family: 'MyWebFont';
+  src: url('webfont.eot'); /* IE9 Compat Modes */
+  src: url('webfont.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('webfont.woff2') format('woff2'), /* Super Modern Browsers */
+       url('webfont.woff') format('woff'), /* Pretty Modern Browsers */
+       url('webfont.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('webfont.svg#svgFontName') format('svg'); /* Legacy iOS */
+}
+
+@font-face{
+  font-family: naomi;
+  src: url(fonts/NaomisHand-Regular.ttf);
+}
+
+
+body{
+  color:  #999999;
+}
+
+
 .catimg{
-  width: 300px;
+  width: 350px;
+  margin-top: 200px;
+  margin-bottom: 5px;
+}
+
+#email{
+  margin-top: -37px;
+  font-size: 37px;
+}
+
+.atsymbol{
+  font-size: 20px;
+}
+
+h1{
+  font-size: 65px;
+}
+
+h2:first-of-type{
+  margin-top: 350px;
+  margin-bottom: 80px;
 }
 
 .intro{
+  font-family: naomi;
   text-align: center;
 }
 
 .siteimg{
-  width: 500px;
+  width: 544px;
 }
 
 h2{
+  font-size: 55px;
   text-align: center;
 }
